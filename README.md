@@ -1,3 +1,3 @@
-# Latent-Geometric-Optimization-for-Floorplanning
+# Latent-Geometric-Optimization
 
 Code will be added soon.
